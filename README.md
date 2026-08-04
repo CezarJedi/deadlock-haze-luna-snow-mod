@@ -2,5 +2,5 @@
 
 Original mod: [Luna Snow as Haze](https://deadlockmods.com/mod/688091). I just added custom music for ult. Only one skin supported.
 
-# Installation
+## Installation
 Just do it.
